@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Covid-19 Live Tracker Application](https://github.com/THINKandroid01/Covid-19_Live-Tracking_Project)
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A](https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A)
+- 👨‍💻 All of my projects are available at [Youtube](https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A)
 
 - 📝 I regularly write articles on [developing android](developing android)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **googlydhiman.4236@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-dhiman-6092541b7/](https://www.linkedin.com/in/vivek-dhiman01/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/vivek-dhiman01/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
