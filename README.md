@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/vivek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vivek" height="30" width="40" /></a>
 <a href="https://twitter.com/vi00748852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vi00748852" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivek dhiman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vivek dhiman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-dhiman01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vivek dhiman" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vivekdhiman.4236/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vivekdhiman.4236/" height="30" width="40" /></a>
 <a href="https://medium.com/@vivekdhiman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vivekdhiman" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0g464plcom78iyfzaqti7a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc0g464plcom78iyfzaqti7a" height="30" width="40" /></a>
