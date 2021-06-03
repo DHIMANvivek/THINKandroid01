@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinkandroid01" alt="thinkandroid01" /></a> </p>
 
-- 🔭 I’m currently working on [Proctored Exam Application](https://techgeekershack.blogspot.com/)
+- 🔭 I’m currently working on [Covid-19 Live Tracker Application](https://techgeekershack.blogspot.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A](https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A)
 
