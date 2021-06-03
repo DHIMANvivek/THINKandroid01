@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Youtube](https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A)
 
-- 📝 I regularly write articles on [developing android](developing android)
+- 📝 I regularly write articles on [developing android](https://androidtask.com)
 
 - 💬 Ask me about **java , java script , html , css**
 
