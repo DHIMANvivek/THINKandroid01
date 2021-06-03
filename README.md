@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **googlydhiman.4236@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-dhiman-6092541b7/](https://www.linkedin.com/in/vivek-dhiman-6092541b7/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-dhiman-6092541b7/](https://www.linkedin.com/in/vivek-dhiman01/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
