@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Covid-19 Live Tracker Application](https://github.com/THINKandroid01/Covid-19_Live-Tracking_Project)
 
-- 👨‍💻 All of my projects are available at [Youtube]/https://youtube.com/c/UC0G464PLcom78IyfzaQTi7A)
+- 👨‍💻 All of my projects are available at [Youtube](https://www.youtube.com/c/VIVEKDHIMAN-YOUTUBE/videos)
 
 - 📝 I regularly write articles on [developing android](https://androidtask.com)
 
